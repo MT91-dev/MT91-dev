@@ -5,7 +5,7 @@ I have completed my Undergrad in Environmental Engineering and I have close to 6
 💞️ In terms of collaborations, at the moment I do not have anything in my arsenal, however, I have some ideas that I am hoping I can bring to life and meet exciting individuals who want to be part of that journey with me. 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MT91-DEV&theme=github_dark&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MT91-DEV&theme=vision_friendly_dark&layout=compact">
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=MT91-DEV&count_private=true&show_icons=true&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MT91-DEV&count_private=true&show_icons=true&theme=vision_friendly_dark"/>
 </p>
