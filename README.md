@@ -1,7 +1,6 @@
-👋 Hello, my name is Mohammad and I am currently part of the June Cohort bootcamp for web development at Lighthouse Labs!
-I have completed my Undergrad in Environmental Engineering and I have close to 6 years of experience working in chemical analytics as a data analyst and in the Engineering Consulting field as a Project Manager.
+👋 I have completed my Undergrad in Environmental Engineering and I have close to 6 years of experience working in chemical analytics as a data analyst and in the Engineering Consulting field as a Project Manager.
 👀 Asides from my interests in programming, development and apps, I like to spend time at the gym, listening to all kinds of music, video games, playing guitar, catching the sought after animes, and being a complete nerd.
-🌱 In the bootcamp thus far, I have learned JavaScript, HTML and CSS and React, but I plan to expand my horizons as I become more involved in this space.
+🌱 Here's some cool snapshot.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MT91-DEV&theme=github_dark&layout=compact">
